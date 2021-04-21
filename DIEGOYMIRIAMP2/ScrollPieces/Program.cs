@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace ScrollPieces
+namespace scrollpieces
 {
     class Program
     {
